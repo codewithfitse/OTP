@@ -24,7 +24,7 @@ const Signin = () => {
             <h3>Signin with your phone number</h3>
             <input
                 type="tel"
-                placeholder="+1234567890"
+                placeholder="+251982863015"
                 value={phone}
                 onChange={(e) => setPhone(e.target.value)}
             />

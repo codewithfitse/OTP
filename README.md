@@ -2,7 +2,7 @@
 
 A simple React application demonstrating phone authentication using Appwrite's authentication services.
 
-![Demo of phone verification](src/data/images/verify.png)
+![Demo of phone verification](src/data/images/signin.png)
 
 ## Prerequisites
 
